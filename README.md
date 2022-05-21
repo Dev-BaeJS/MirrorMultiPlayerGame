@@ -9,7 +9,12 @@ List
 - Commaning Units (18)
 - Storing Our Units
 - Selecting Multiple Units
-- Improvaing Selction & Movement(21)
+- Improvaing Selction & Movement (21)
+- Unit Targeting
+- Unit Chasing
+- Unit Firing
+- Dealing Damage
+- Health UI (26)
 
 
 # MirrorMultiPlayer
